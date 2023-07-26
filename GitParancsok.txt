@@ -1,3 +1,5 @@
 git init
 git status
 git add filenév.kit /*egy fájl hozzáadása*/
+másho van a többi
+
